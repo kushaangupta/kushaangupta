@@ -1,6 +1,5 @@
 🔭 I'm a **Research Assistant** @ *Swanand Lab* solving problems in Neuroscience through bioimage analysis & computational modeling.
-<br /> <br />
----
+
 ### Personal statistics
 <a href="https://github.com/kushaangupta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kushaangupta&theme=gotham&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" width="420" />
@@ -8,7 +7,6 @@
 <a href="https://github.com/kushaangupta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaangupta&langs_count=5&layout=compact&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=gotham"  />
 </a>
-<br>
 
 <a href="https://github.com/kushaangupta">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushaangupta&theme=gotham&show_icons=true&hide_border=true&border_radius=40%&count_private=true&include_all_commits=true" width="420" />

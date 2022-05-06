@@ -1,4 +1,4 @@
-🔭 I'm a **Research Assistant** @ *Swanand Lab* solving problems in Neuroscience through bioimage analysis & computational modeling.
+🔭 I'm a **graduate student** @ *Euston Lab* in *Canadian Centre for Behavioral Neuroscience (CCBN), University of Lethbridge* solving problems in Neuroscience through bioimage analysis, reinforcement learning, & computational modeling.
 
 ### Personal statistics
 <a href="https://github.com/kushaangupta">

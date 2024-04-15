@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/kushaangupta">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushaangupta&theme=gotham&show_icons=true&hide_border=true&border_radius=40%&count_private=true&include_all_commits=true" width="420" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushaangupta&theme=gotham&show_icons=true&hide_border=true&border_radius=10%&count_private=true&include_all_commits=true" width="420" />
 </a>
 <a href="https://wakatime.com/@kushaangupta">
   <img align="center" src="https://wakatime.com/share/@kushaangupta/609eec4b-dd3d-4c57-a9e3-30921c5ff1af.svg" width="350" />

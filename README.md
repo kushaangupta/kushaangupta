@@ -1,4 +1,4 @@
-🔭 I'm a **graduate student** @ *Euston Lab* in *Canadian Centre for Behavioral Neuroscience (CCBN), University of Lethbridge* solving problems in Neuroscience through bioimage analysis, reinforcement learning, & computational modeling.
+🔭 I'm a **graduate student** @ *Department of Neurobiology and Behavior (NBB), Cornell University* solving problems in Neuroscience through systems neuroscience, deep learning, reinforcement learning, bioimage analysis, & computational modeling.
 
 ### Personal statistics
 <a href="https://github.com/kushaangupta">
